@@ -1,0 +1,255 @@
+{
+  "Admins": [
+    {
+      "id": 1,
+      "phone": "2515245587",
+      "image": "eya2.jpg",
+      "fullName": "Eya Bani",
+      "adresse": "Tunisia,Tunis"
+    },
+    {
+      "id": 2,
+      "phone": "2515245587",
+      "image": "zouhour.jpg",
+      "fullName": "Zouhour Abidi",
+      "adresse": "Tunisia,Gasserine"
+    },
+    {
+      "image": "emna.jpg",
+      "fullName": "Emna Bani",
+      "adresse": "Tunisia,nabeul",
+      "phone": "2515245587",
+      "id": 3
+    },
+    {
+      "image": "hanen.jpg",
+      "fullName": "hanen",
+      "adresse": "Tunisia,mannouba",
+      "id": 4,
+      "phone": "2515245587"
+    }
+  ],
+  "Users": [
+    {
+      "image": "eya2.jpg",
+      "fullName": "Eyouta  Bani",
+      "email": "EyaBani@gmail.com",
+      "phone": "78965143",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "image": "zouhour.jpg",
+      "fullName": "Zouhour Abidi",
+      "email": "Zouhourabidi@gmail.com",
+      "phone": "5478458"
+    },
+    {
+      "id": 3,
+      "image": "emna.jpg",
+      "fullName": "Emna Bani",
+      "email": "EmnaBani@gmail.com",
+      "phone": "789646"
+    },
+    {
+      "image": "hanen.jpg",
+      "fullName": "Hanen Jlasii",
+      "email": "HanenJlasii@gmail.com",
+      "phone": "2515245587",
+      "id": 4
+    }
+  ],
+  "Products": [
+    {
+      "id": 1,
+      "image": "shoes1.avif",
+      "price": "$718",
+      "description": "ggg",
+      "title": "Shoes"
+    },
+    {
+      "id": 2,
+      "image": "shoes2.avif",
+      "description": "YELLOW LEATHER PUMPS HEELS MARY JANE SHOES",
+      "price": "$628",
+      "title": "Shoes"
+    },
+    {
+      "id": 3,
+      "image": "shoes3.avif",
+      "description": "PURPLE SEQUIN LEATHER CRYSTAL SANDAL SHOES",
+      "price": "$820",
+      "title": "Shoes"
+    },
+    {
+      "id": 4,
+      "image": "shoes4.webp",
+      "description": "BLACK NETTED SOCK HEELS PUMPS SHOES",
+      "price": "$520",
+      "title": "Shoes"
+    },
+    {
+      "id": 5,
+      "image": "jacket1.avif",
+      "description": "ARMANI EXCHANGE WOMEN JACKETS 6ZYB53_YNFTZ",
+      "price": "$180",
+      "title": "Jackets"
+    },
+    {
+      "id": 6,
+      "image": "jacket2..avif",
+      "description": "TOMMY HILFIGER WOMEN JACKETS WW0WW24599",
+      "price": "$80",
+      "title": "Jackets"
+    },
+    {
+      "id": 7,
+      "image": "jacket3.avif",
+      "description": "FONTANA 2.0 WOMEN JACKETS KIM",
+      "price": "$120",
+      "title": "Jackets"
+    },
+    {
+      "id": 8,
+      "image": "jacket4.webp",
+      "description": "GUESS GIUBBOTTO NEW OXANA JACKET",
+      "price": "$245",
+      "title": "Jackets"
+    },
+    {
+      "id": 9,
+      "image": "flip1.avif",
+      "description": "LOVE MOSCHINO WOMEN SANDALS JA28397G0EJB0",
+      "price": "$45",
+      "title": "Flip-Flop"
+    },
+    {
+      "id": 10,
+      "image": "flip2.avif",
+      "description": "BIRKENSTOCK WOMEN FLIP FLOPS MADRID",
+      "price": "$75",
+      "title": "Flip-Flop"
+    },
+    {
+      "id": 11,
+      "image": "flip3.avif",
+      "description": "SCHOLL WOMEN FLIP FLOPS CYNTHIA-F27434",
+      "price": "$163",
+      "title": "Flip-Flop"
+    },
+    {
+      "id": 12,
+      "image": "flip4.webp",
+      "description": "CALVIN KLEIN JEANS CIABATTE SLIDE MONOGRAM",
+      "price": "$95",
+      "title": "Flip-Flop"
+    },
+    {
+      "id": 13,
+      "image": "shirt1.webp",
+      "description": "FILA T-SHIRT BUEK",
+      "price": "$35",
+      "title": "Shirts"
+    },
+    {
+      "id": 14,
+      "image": "shirt2.webp",
+      "description": "EA7 T-SHIRT T-SHIRT 3LPT64 PJ03Z",
+      "price": "$69",
+      "title": "Shirts"
+    },
+    {
+      "id": 15,
+      "image": "shirt3.webp",
+      "description": "ADIDAS T-SHIRT TREFOIL T-SHIRT H06642",
+      "price": "$41",
+      "title": "Shirts"
+    },
+    {
+      "id": 16,
+      "image": "flip4.webp",
+      "description": "ARMANI EXCHANGE T-SHIRT T-SHIRT",
+      "price": "$62",
+      "title": "Shirts"
+    },
+    {
+      "id": 17,
+      "image": "cas1.jpg",
+      "description": "NY Apple 9Fifty dark green",
+      "price": "$25",
+      "title": "Snap-Backs"
+    },
+    {
+      "id": 18,
+      "image": "cas2.jpg",
+      "description": "Badge Logo Snapback black",
+      "price": "$38",
+      "title": "Snap-Backs"
+    },
+    {
+      "id": 19,
+      "image": "cas3.jpg",
+      "description": "NBA Core Basic Snapback Lakers",
+      "price": "$27",
+      "title": "Snap-Backs"
+    },
+    {
+      "id": 20,
+      "image": "cas4.jpg",
+      "description": "Oath III medal bronz",
+      "price": "$39",
+      "title": "Snap-Backs"
+    }
+  ],
+  "Contacts": [
+    {
+      "id": 2,
+      "fullName": "Ali Slama",
+      "email": "Ali@yahoo.fr",
+      "phone": "78748587487",
+      "info": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam recusandae dignissimos illum labore nulla, ab vel qui veniam temporibus magnam voluptatum consequatur laudantium numquam. Delectus iste aperiam obcaecati optio consequuntur."
+    },
+    {
+      "id": 3,
+      "fullName": "Tayssir Hamdi",
+      "email": "Taysir@yahoo.fr",
+      "phone": "78748587487",
+      "info": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam recusandae dignissimos illum labore nulla, ab vel qui veniam temporibus magnam voluptatum consequatur laudantium numquam. Delectus iste aperiam obcaecati optio consequuntur."
+    },
+    {
+      "id": 4,
+      "fullName": "Ahmed Gileni",
+      "email": "Ahmed@yahoo.fr",
+      "phone": "78748587487",
+      "info": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam recusandae dignissimos illum labore nulla, ab vel qui veniam temporibus magnam voluptatum consequatur laudantium numquam. Delectus iste aperiam obcaecati optio consequuntur."
+    },
+    {
+      "id": 5,
+      "fullName": "Siwar Kacem",
+      "email": "Siwar@yahoo.fr",
+      "phone": "78748587487",
+      "info": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam recusandae dignissimos illum labore nulla, ab vel qui veniam temporibus magnam voluptatum consequatur laudantium numquam. Delectus iste aperiam obcaecati optio consequuntur."
+    },
+    {
+      "id": 6,
+      "fullName": "Rania Ajouz",
+      "email": "Rania@yahoo.fr",
+      "phone": "78748587487",
+      "info": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam recusandae dignissimos illum labore nulla, ab vel qui veniam temporibus magnam voluptatum consequatur laudantium numquam. Delectus iste aperiam obcaecati optio consequuntur."
+    },
+    {
+      "id": 7,
+      "fullName": "Samira Mustapha",
+      "email": "Samira@yahoo.fr",
+      "phone": "78748587487",
+      "info": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam recusandae dignissimos illum labore nulla, ab vel qui veniam temporibus magnam voluptatum consequatur laudantium numquam. Delectus iste aperiam obcaecati optio consequuntur."
+    },
+    {
+      "id": 8,
+      "fullName": "Hayet Loueti",
+      "email": "Hayet@yahoo.fr",
+      "phone": "78748587487",
+      "info": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam recusandae dignissimos illum labore nulla, ab vel qui veniam temporibus magnam voluptatum consequatur laudantium numquam. Delectus iste aperiam obcaecati optio consequuntur."
+    }
+  ]
+}

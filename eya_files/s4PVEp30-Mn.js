@@ -1,0 +1,3 @@
+;/*FB_PKG_DELIM*/
+
+__d("LSDeleteCommunityFolder",["LSDeleteThread"],(function(a,b,c,d,e,f){function a(){var a=arguments,c=a[a.length-1];c.n;var d=[],e=[];return c.seq([function(e){return c.db.table(162).fetch([[[a[0]]]]).next().then(function(a,e){var f=a.done;a=a.value;return f?0:(e=a.item,c.seq([function(a){return d[0]=e.folderId,c.fe(c.db.table(162).fetch([[[d[0]]]]),function(a){return a["delete"]()})},function(a){return c.sp(b("LSDeleteThread"),d[0],!1)},function(a){return 0}]))})},function(a){return c.resolve(e)}])}e.exports=a}),null);

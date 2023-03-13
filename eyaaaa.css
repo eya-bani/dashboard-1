@@ -1,0 +1,40 @@
+.cardAdmin #photoAdmin img {
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    margin-bottom: 0.5rem;
+   
+}
+.cardAdmin{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+}
+#showAdmins{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 30px;
+    margin-top: 5rem;
+}
+#buttonb{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-top: 0.5rem;
+
+}
+#buttonb button {
+    background-color: red;
+    padding: 5px 10px;
+    border: transparent;
+    border-radius: 4px;
+    cursor: pointer;
+}
+#buttonb  button svg{
+    fill: white !important;
+}
